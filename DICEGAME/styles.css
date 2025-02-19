@@ -1,0 +1,21 @@
+#body{
+    background-color: #F4CCE9;
+    text-align: center;
+}
+h1{
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+img{
+    width: 30%;
+}
+.player{
+    visibility:hidden;
+}
+.fa1{
+    visibility:hidden;
+}
+.fa2{
+    visibility:hidden;
+}
